@@ -1,6 +1,6 @@
 <!--- Imagens -->
 [imagem-code]:/Modulo2/code.png
-[imagem-destroy]:/Modulo3/destroy.png
+[imagem-destroy]:/Modulo3/destroy.gif
 
 # mentoramaCsharpJogos
 
